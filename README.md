@@ -18,5 +18,6 @@ In this projects,I am trying to training two model which are pseudo siamese netw
 **Model_Used** : 
 1. (pseudo siamese network)  <br>
   1.1 pretrained_Bert <br>
+    1.1.1 Ref : https://huggingface.co/bert-base-uncased
   1.2 CNN model <br>
 2. GAN-GP
