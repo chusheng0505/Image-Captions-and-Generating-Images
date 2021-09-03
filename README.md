@@ -8,15 +8,15 @@ Targets :
 2. Generating one similarly image by using the previous five specific sentences.
 
 Inputs :
-1. Five sentences in english which describe :
-  1.1 What's kinds of fabrics
-  1.2 What's the color series 
-  1.3 Visualization patterns of fabric
-  1.4 More details of pattern descriptions 
+1. Five sentences in english which describe : <br>
+  1.1 What's kinds of fabrics <br>
+  1.2 What's the color series  <br> 
+  1.3 Visualization patterns of fabric <br>
+  1.4 More details of pattern descriptions  <br>
   1.5 Handfeel of fabric
 
-Model_Used : 
-1. (pseudo siamese network) 
-  1.1 pretrained_Bert
-  1.2 CNN model
+Model_Used : <br>
+1. (pseudo siamese network)  <br>
+  1.1 pretrained_Bert <br>
+  1.2 CNN model <br>
 2. GAN-GP
