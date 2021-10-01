@@ -21,3 +21,6 @@ In this projects,I am trying to training two model which are pseudo siamese netw
     1.1.1 Ref : https://huggingface.co/bert-base-uncased <br>
   1.2 CNN model <br>
 2. GAN-GP
+
+# Result
+![result](https://user-images.githubusercontent.com/55430748/135552868-091092d9-9891-4b5a-a3d6-bceb52a6f568.png)
